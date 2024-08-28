@@ -1,4 +1,4 @@
-# Algorithmic Data Science - Document Similarity Analysis
+# Document Similarity Analysis
 
 This repository contains the submission for the Algorithmic Data Science module assignment. The goal of this project is to investigate and analyze the running time of various algorithms used for finding similarities between pairs of documents in a collection. The analysis is performed on a dataset derived from word frequencies in extracts from "War and Peace" by Leo Tolstoy.
 
